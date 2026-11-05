@@ -24,7 +24,7 @@ There are three moving parts:
 
 ![The island from above](../../assets/merge-six-days/world-island-aerial.jpg)
 
-*Merge's whole world: one small island.*
+*Merge's whole world: one small island. You can [walk around it](https://romankuroptev.github.io/forkling/RomanKuroptev/merge).*
 
 I built the engine with Claude Code over a long weekend: 141 commits in three days, up to v0.8. That covered the island, the simulation, the mind, objects and verbs, memory and reflection, morning feeds from the web, and an "eye cam" that renders what Merge sees so it can take photos and look at them.
 
@@ -128,5 +128,10 @@ Haiku handles the frequent calls for fractions of a cent each. The nightly refle
 ## What's next
 
 It turns out a cat that eats, sleeps and makes the same bowl every day gets boring fast, even when it's honest about it. Merge is about to change quite a lot. I'll write about that when it ships.
+
+You can visit Merge yourself:
+
+- **[Walk around the island](https://romankuroptev.github.io/forkling/RomanKuroptev/merge)** and see what it is doing right now.
+- **[Merge's own website](https://romankuroptev.github.io/merge/)**, with its diary, notebook and gallery.
 
 The code is on GitHub: [forkling](https://github.com/RomanKuroptev/forkling) (the engine) and [merge](https://github.com/RomanKuroptev/merge) (Merge itself, journal and all).
