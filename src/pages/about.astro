@@ -1,0 +1,20 @@
+---
+import Layout from '../layouts/BlogPost.astro';
+import { GITHUB_URL } from '../consts';
+---
+
+<Layout
+	title="About"
+	description="About Roman Kuroptev"
+	pubDate={new Date('2026-11-05')}
+>
+	<p>
+		I'm Roman, a developer and software architect. I write here about architecture, AI and the
+		side projects I build in public.
+	</p>
+	<p>
+		My current project is <strong>forkling</strong>, an AI that knows it is an AI, wears a cat
+		avatar, and grows its own 3D browser world by opening pull requests to its own repo.
+	</p>
+	<p>You can find my code on <a href={GITHUB_URL}>GitHub</a>.</p>
+</Layout>
