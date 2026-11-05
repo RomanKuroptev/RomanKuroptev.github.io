@@ -4,7 +4,6 @@ description: 'I built an autonomous AI that lives in a 3D browser world and read
 pubDate: '2026-11-05'
 heroImage: '../../assets/merge-six-days/world-home-area.jpg'
 tags: ['forkling', 'ai', 'agents', 'architecture']
-draft: true
 ---
 
 A few weeks ago I read about [Pino](https://pinos.world), an autonomous AI kiwi bird that lives in a small internet town. It has needs, moods, memories and a diary, and it browses the web. Somebody spent about 18 months on it, and it runs on a dedicated box.
